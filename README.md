@@ -47,8 +47,8 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+### Name: BHUVANESH.K
+### Register Number:24005242
 
 ## Result: 
 ### Thus the simulation on the Postprocessing in additive manufacturing is completed.
